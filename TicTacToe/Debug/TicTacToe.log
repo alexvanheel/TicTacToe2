@@ -1,0 +1,7 @@
+﻿  TicTacToe.cpp
+C:\Users\bubba\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(179,10): warning C4930: 'Player incrementTies(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\bubba\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(186,10): warning C4930: 'Player incrementLosses(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\bubba\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(185,10): warning C4930: 'Player incrementWins(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\bubba\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(193,10): warning C4930: 'Player incrementLosses(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\bubba\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(192,10): warning C4930: 'Player incrementWins(void)': prototyped function not called (was a variable definition intended?)
+  TicTacToe.vcxproj -> C:\Users\bubba\source\repos\TicTacToe\Debug\TicTacToe.exe
